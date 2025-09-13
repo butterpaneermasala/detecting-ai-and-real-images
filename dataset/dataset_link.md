@@ -8,3 +8,4 @@ dataset links for ai_vs_real image
 5. https://www.kaggle.com/datasets/mhassansaboor/ai-generated-cats-high-res-images-and-prompts
 6. https://www.kaggle.com/datasets/kausthubkannan/ai-and-human-art-classification
 7. https://www.kaggle.com/datasets/shreyasraghav/shutterstock-dataset-for-ai-vs-human-gen-image
+https://github.com/renangrothe/AI-generated-image-detector
